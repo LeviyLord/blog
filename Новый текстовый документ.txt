@@ -1,9 +1,0 @@
-<!-- Bootstrap Grid -->
-  <link rel="stylesheet" type="text/css" href="/Web/data/hddocs/BLOG/media/assets/bootstrap-grid-only/css/grid12.css">
-
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-
-  <!-- Custom -->
-  <link rel="stylesheet" type="text/css" href="/Web/data/hddocs/BLOG/media/css/style.css">
